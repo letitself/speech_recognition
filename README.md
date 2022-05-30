@@ -3,4 +3,4 @@
 2. errors_ipynb_.ipynb - analysing and plotting
 3. bd_wer_txt.csv - data with wer and cer methrics for each token
 4. error_data(1).csv - table which contains all of the errors
-
+5. find_export_convert.ipynb - converting OPUS to WAV and sorting files in 2 folders
